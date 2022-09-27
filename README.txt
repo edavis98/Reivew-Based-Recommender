@@ -1,22 +1,19 @@
 Author: Evan Davis
-Date: 09/26/2022
 
 Building a Recommender Using Reviews
-Final BrainStation Capstone Project
 
 =====================================
-Contents of folder:
+Contents of directory:
 
 Preparing Data and Scraping.ipynb
 Review Analysis.ipynb
-Report Capstone Final.pdf
 recommender.py
 review_scraper.py
 chromedriver.exe
-adblock (folder)
-environments (folder)
-data (folder)
-models (folder)
+adblock (directory)
+environments (directory)
+data (directory)
+models (directory)
 
 =====================================
 
@@ -38,7 +35,7 @@ A local instance of the Streamlit application will open up.
 
 The final report for this project is found in 'Report Capstone Final.pdf'.
 
-The main folder contains four sub-folders:
+The main directory contains four sub-directories:
 	-'adblock' contains the adblock extension necessary to run 'review_scraper.py'
 	-'environments' contains the environment requirement files necessary to run the notebooks
 	-'data' contains the .csv files necessary to run the notebooks, and the created .csv files
